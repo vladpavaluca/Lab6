@@ -1,0 +1,57 @@
+body { 
+
+    background-color: linen; 
+
+} 
+
+h1 { 
+
+    color: maroon; 
+
+  margin-left: 40px; 
+
+  text-decoration: underline; 
+
+  font-family:"Lucida Handwriting"; 
+
+} 
+
+h2{ 
+
+   color:red; 
+
+} 
+
+h3{ 
+
+  color: blue; 
+
+} 
+
+li{ 
+
+   color:purple; 
+
+   border-style: outset; 
+
+   font-family:"Papyrus"; 
+
+} 
+
+tr{color:navy; 
+
+   background-color:orange; 
+
+} 
+
+table{ 
+
+border-style: double; 
+
+} 
+img{
+	border: 2px solid red;
+  border-radius: 8px;
+  height: 500px;
+  opacity: 1.0;
+}
